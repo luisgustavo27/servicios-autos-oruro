@@ -1,0 +1,25 @@
+var json_SURTIDORES_2 = {
+"type": "FeatureCollection",
+"name": "SURTIDORES_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "QV2", "DIRECCION": "AV. 24 DE JUNIO", "ZONA": "ESTE", "COMBUST.": "GASOLINA, DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.087321698847504, -17.973433713150925 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "ROJO", "DIRECCION": "AV. 24 DE JUNIO", "ZONA": "ESTE", "COMBUST.": "GAS" }, "geometry": { "type": "Point", "coordinates": [ -67.088101773170322, -17.973096437165935 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "3 ISLAS", "DIRECCION": "CIRCUNVALACION ENTRE AV .EJERCITO Y AYACUCHO", "ZONA": "ESTE", "COMBUST.": "GAS" }, "geometry": { "type": "Point", "coordinates": [ -67.093089521113129, -17.973186377491576 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "ECCO", "DIRECCION": "AV. VILLARROEL Y CIRCUNVALACION", "ZONA": "ESTE", "COMBUST.": "GASOLINA Y DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.092380362637854, -17.963562502954151 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "6 DE AGOSTO", "DIRECCION": "CIRCUNVALACION", "ZONA": "NOROESTE", "COMBUST.": "GAS,GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.093538654814139, -17.957491097521181 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "TACNA", "DIRECCION": "TACNA Y PROLONGACION OBLITAS", "ZONA": "ESTE", "COMBUST.": "GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.099389212235224, -17.959447462044693 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "6 DE AGOSTO", "DIRECCION": "AV. SARGENTO FLORES Y 6 DE AGOSTO", "ZONA": "CENTRAL", "COMBUST.": "GAS, GASOLINA" }, "geometry": { "type": "Point", "coordinates": [ -67.106421700448422, -17.959267567360257 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "MORELA YPFB", "DIRECCION": "AV. EJERCITO Y HEROES DEL CHACO", "ZONA": "NORTE", "COMBUST.": "GAS" }, "geometry": { "type": "Point", "coordinates": [ -67.108040945633633, -17.947517799395392 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "LUCIFER", "DIRECCION": "AV. CIRCUNVALACION Y CALLE A", "ZONA": "NORESTE", "COMBUST.": "GAS.GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.100559323719423, -17.944594290876328 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "EBE EFE", "DIRECCION": "CIRCUNVALACION", "ZONA": "SUDESTE", "COMBUST.": "GAS" }, "geometry": { "type": "Point", "coordinates": [ -67.102938468542376, -17.988275224104129 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "SAN PEDRO", "DIRECCION": "AV BARRIENTOS Y JUAN TORRES", "ZONA": "NORTE", "COMBUST.": "GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.114811708457978, -17.937519796876302 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "NUESTRA SEÑORA SOCAVON", "DIRECCION": "CIRCUNVALACION TOMAS FRIAS", "ZONA": "NORTE", "COMBUST.": "GASOLINA, GAS, DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.119695739167199, -17.92730317668833 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "PETROAL", "DIRECCION": "CIRCUNVALACION (1M ABAJO HEROES CHACO)", "ZONA": "NORTE", "COMBUST.": "GAS,GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.115241801974847, -17.926378568351595 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "VINTO", "DIRECCION": "AV 24 DE JUNIO (ULTIMA ROTONDA)", "ZONA": "ESTE", "COMBUST.": "GAS,GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.060518761663815, -17.976889585868225 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "EBEN-EZER", "DIRECCION": "AV 24 DE JUNIO(ULTIMA ROTONDA)", "ZONA": "ESTE", "COMBUST.": "GAS" }, "geometry": { "type": "Point", "coordinates": [ -67.059547617716049, -17.977186135324509 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "5 ESQUINAS", "DIRECCION": "GERMAN BUSCH Y SANTA CRUZ", "ZONA": "NORTE", "COMBUST.": "GASOLINA,DIESEL" }, "geometry": { "type": "Point", "coordinates": [ -67.109074090044729, -17.954374425646343 ] } }
+,{ "type": "Feature", "properties": { "id": null, "NOMBRE": "INTI RAYMI", "DIRECCION": "CALLE B Y CIRCUNVALACION", "ZONA": "SUD", "COMBUST.": "gasolina,diesel" }, "geometry": { "type": "Point", "coordinates": [ -67.13528, -17.98575 ] } },
+{ "type": "Feature", "properties": { "id": null, "NOMBRE": "PLAYA YPFB", "DIRECCION": "VELASCO Y BALLIVIAN", "ZONA": "CENTRAL", "COMBUST.": "GASOLINA,DIELSEL" }, "geometry": { "type": "Point", "coordinates": [ -67.11137, -17.97434 ] } }
+,{ "type": "Feature", "properties": { "id": null, "NOMBRE": "ESPAÑA", "DIRECCION": "CIRCUNVALACION  Y ESPAÑA", "ZONA": "SUD", "COMBUST.": "GAS,GASOLINA,DIELSEL" }, "geometry": { "type": "Point", "coordinates": [ -67.13803, -17.97665 ] } }]
+}
